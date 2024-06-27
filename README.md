@@ -1,2 +1,4 @@
 # Hare-demo
-My first repository
+My first  Git repository
+<br>
+Author-Harekrushna Pradhan
